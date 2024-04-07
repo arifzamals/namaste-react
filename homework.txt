@@ -1,1 +1,15 @@
 crossorigin
+trangitive dependency nodemodules
+
+
+config driven ui 
+
+reconciliation Algorithm(Reatc fiber) react 16
+
+virtual dom --- is not actual dom .Virtual dom is representation of actual dom. It's normal javascript nested object.
+
+dif  algorithm ---- 
+
+why react fast -- efficient dom manipulation
+
+monoleih architecture and microservice architecture
